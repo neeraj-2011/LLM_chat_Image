@@ -25,7 +25,18 @@ else:
 
     # Initialize the Streamlit app
     st.set_page_config(page_title="Gemini Image Demo")
-    st.header("Gemini Application")
+    st.header("NeerajAI: Image Insights Application")
+
+    st.header("Gemini Image Demo")
+
+    st.write("""
+    Welcome to the Gemini Image Demo!
+
+    This is a simple app where you can upload an image, and the AI will describe it for you. Just choose an image, and the app will generate a detailed description based on what it sees.
+
+    Try it out and see how AI can interpret and describe your images!
+    """)
+
 
     # User input prompt and image upload
     input = st.text_input("Input Prompt: ", key="input")
