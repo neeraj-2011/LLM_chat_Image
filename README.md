@@ -22,7 +22,13 @@ This is a simple **Streamlit** web application that integrates with the **Google
    Install the required Python packages using the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.
+
+
+![ss4](./images/ss4.png)
+
+<br>
+
 
 
 ![ss3](./images/ss3.png)
