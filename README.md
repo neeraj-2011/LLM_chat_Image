@@ -25,9 +25,13 @@ This is a simple **Streamlit** web application that integrates with the **Google
    pip install -r requirements.txt
 
 
-![ss1](./images/ss1.png)
+![ss3](./images/ss3.png)
+
+<br>
 
 ![ss1](./images/ss1.png)
+
+<br>
 
 ![ss2](./images/ss2.png)
 
